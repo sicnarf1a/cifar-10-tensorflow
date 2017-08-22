@@ -8,11 +8,11 @@ Version: Python3, Tensorflow
 
 
 ## Network Configuration
-Input: cifar-10 image: 32x32x3
+Input: **cifar-10 images (32x32x3)**
 
-Network: 3 Convolution layers, 3 Pooling layers, 3 Fully-connected layers
+Network: **3 Convolution layers, 3 Pooling layers, 3 Fully-connected layers**
 
-Optimizer: AdamOptimizer
+Optimizer: **AdamOptimizer**
 
 
 ## Set Hyper-Parameters & Usage
